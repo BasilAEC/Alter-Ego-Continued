@@ -1,3 +1,3 @@
-AlterEgoContinued-0.1-cook
+Alter Ego Continued is a fan project of {a=https://alterego.caracolu.com/en/index.html}a mobile game series called ALTER EGO{/a} currently in development.
 
-This is a fan game and is not related to ALTER EGO and Caramel Column in any way.
+Alter Ego Continued is an open source project and is not affiliated with caramel column in any way. Alter Ego Continued is not affiliated with any company unless specified. All work on this project is done by fans and we do not earn any money from it.
