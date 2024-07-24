@@ -1,0 +1,22 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 666: menu statement expects a non-empty block.
+    menu:
+        ^
+
+File "game/script.rpy", line 669: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    pass
+    ^
+
+File "game/script.rpy", line 677: menu statement expects a non-empty block.
+    menu:
+        ^
+
+File "game/script.rpy", line 680: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    pass
+    ^
+
+Ren'Py Version: Ren'Py 8.2.3.24061702
+Wed Jul 24 03:30:20 2024
